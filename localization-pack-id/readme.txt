@@ -46,3 +46,7 @@ New line: \n
 Bold/italics:
 
     <![CDATA[Now <b><i>do something</i></b>.\nThis is on the next line.]]>
+
+Progress
+=========================
+0% 18/01/2019
